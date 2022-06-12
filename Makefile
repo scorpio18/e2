@@ -1,4 +1,4 @@
-rebar = ./rebar
+rebar = rebar
 scripts = start stop status
 
 compile: deps
